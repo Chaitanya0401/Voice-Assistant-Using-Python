@@ -73,6 +73,8 @@ if __name__ == "__main__":
         if "you there" in query or "are you listening" in query :
             speak("Yes sir, always")
 
+        printf("Child2 changes")
+
         elif 'wikipedia' in query:
             speak("Searching wikipedia")
             query= query.replace('wikipedia'," ")
