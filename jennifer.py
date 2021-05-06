@@ -164,8 +164,7 @@ if __name__ == "__main__":
             speak("Bye Sir, have a good day")
             sys.exit()
         
-        
-            
+    #voice assisteant- Jennifer. 
 
 
         
