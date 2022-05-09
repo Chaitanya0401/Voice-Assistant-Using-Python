@@ -1,2 +1,2 @@
 # Voice-Assistant-Using-Python
-Voice Assistant named Jennifer built using python
+I built a simple voice assistant and named it jennifer. I have implemented various functions in the code to perform my daily and necessary tasks. I can easily access many files and softwares by just giving a command.
